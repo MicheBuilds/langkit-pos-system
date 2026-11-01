@@ -1,0 +1,14 @@
+# Operating System / IDE artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / Logs
+*.log
+.system_generated/
+
+# Receipts generated dynamically during testing
+e_receipts/
+
+# Local backup / testing scripts
+query.php
